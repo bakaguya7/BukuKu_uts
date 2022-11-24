@@ -162,6 +162,34 @@ body {
     width: 300px;
 }
 
+.card-popular{
+    position: relative;
+}
+
+.content-popular{
+    position:absolute;
+    top; 3;
+}
+
+.content-popular1 {
+    position: absolute;
+    top; 6;
+}
+
+.content-popular2 {
+    position: absolute;
+    top; 9;
+}
+
+.content-popular3 {
+    position: absolute;
+    top; 12;
+}
+
+.content-popular4 {
+    position: absolute;
+    top; 15;
+}
 
 .container-bigpost {
     position: relative;
