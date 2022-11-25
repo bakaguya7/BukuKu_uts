@@ -154,12 +154,10 @@ body {
 
 .iconsvg {
     filter: invert(1);
-    width: 80pxx;
 }
 
 .logosvg {
     filter: invert(1);
-    width: 300px;
 }
 
 .card-popular{
